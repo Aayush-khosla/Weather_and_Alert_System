@@ -39,7 +39,7 @@ const WeatherData = () => {
       case 'mist':
         return 'mist.jpg';
       default:
-        return 'default.jpg';
+        return 'defult.jpg';
     }
   };
 
