@@ -61,4 +61,6 @@ This project involves developing a real-time data processing system for weather 
 
 ### Images
 
-![Weather System Overview](./images/weather-system-overview.png)
+![Weather System Overview](./img1.png)
+![Weather System Overview](./img2.png)
+![Weather System Overview](./img3.png)
